@@ -1,1 +1,1 @@
-select * from table;
+select d.* from demo d;
